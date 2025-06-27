@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/perpustakaan_app/static/css/main.b4f26a3d.css",
+    "main.js": "/perpustakaan_app/static/js/main.6f0ab336.js",
+    "static/js/453.8ab44547.chunk.js": "/perpustakaan_app/static/js/453.8ab44547.chunk.js",
+    "index.html": "/perpustakaan_app/index.html",
+    "main.b4f26a3d.css.map": "/perpustakaan_app/static/css/main.b4f26a3d.css.map",
+    "main.6f0ab336.js.map": "/perpustakaan_app/static/js/main.6f0ab336.js.map",
+    "453.8ab44547.chunk.js.map": "/perpustakaan_app/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4f26a3d.css",
+    "static/js/main.6f0ab336.js"
+  ]
+}
